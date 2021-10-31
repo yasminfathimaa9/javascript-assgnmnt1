@@ -9,7 +9,7 @@ function percentage(maths,english,science,social,hindi){
 }
 var result=percentage(80, 80 , 70 , 60 , 80);
 console.log(result);
-
+// output : 74
 
 // function to print even or odd number
 
@@ -25,7 +25,7 @@ function evenorOdd(num){
 }
 var reslt = evenorOdd(6);
 console.log(reslt);
-
+// output : Even number
 
 // function for reverse a string
 function reverseString(str)
@@ -36,3 +36,4 @@ function reverseString(str)
 }
 var res=reverseString("college");
 console.log(res);
+// output : egelloc
